@@ -1,0 +1,8 @@
+{
+  "name": "CareBridge Discharge Assistant",
+  "description": "A patient-centered tool that translates complex clinical discharge documents into clear, actionable, and safe recovery plans using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
